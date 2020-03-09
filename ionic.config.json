@@ -1,0 +1,8 @@
+{
+  "name": "zahira_apk",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}

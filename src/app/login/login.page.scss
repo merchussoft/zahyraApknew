@@ -1,0 +1,48 @@
+ion-content{
+  //--ion-background-color: #102a83;
+  --ion-background-color: #000000;
+}
+
+ion-input{
+  //--ion-background-color: #000000 !important;
+  background-color: #0d0d0d;
+  color: yellow;
+  border: 1px solid yellow !important;
+}
+
+#form_login{
+  max-width: 300px;
+  width: 100%;
+  margin: 100px auto;
+  border: 1px solid yellow;
+  padding: 30px;
+}
+
+#avatar_login{
+  position: relative;
+  display: flex;
+  margin: auto;
+  bottom: 20px;
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  border: 2px solid yellow;
+  border-radius: 100px;
+}
+
+ion-header{
+  border-bottom: 3px solid yellow;
+}
+ion-header,
+ion-footer{
+  text-align: center;
+  color: yellow;
+}
+ion-header,
+ion-footer ion-title {
+  font-size: 15px;
+}
+
+ion-title{
+  color: yellow;
+}
